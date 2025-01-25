@@ -1,0 +1,2 @@
+# SickroomManager
+第一次接触java web时用SpringMVC做的医院住院管理系统
